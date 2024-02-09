@@ -1,2 +1,2 @@
 # rusty-calculator
-Terminal calculator written in Rust
+My first Rust project!!!! A terminal calculator written in Rust.
